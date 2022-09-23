@@ -2,6 +2,10 @@
 - `React`를 이용한 `NetFlix` 클론 페이지입니다. [[넷플릭스 페이지 이동]](https://WooJinDeve.github.io/react-netfilx-app/)
 
 ### Settings
+- **Movie DB API**
+  - [영화 API KEY 사이트](https://www.themoviedb.org/?language=ko) 
+  - [영화 API 명세](https://developers.themoviedb.org/3)
+
 - **download package**
   - `npm install -d axios`
   - `npn install -d react-dom`
