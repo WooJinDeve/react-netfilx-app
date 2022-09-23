@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-netfilx-app/static/css/main.a16c1ec7.css",
-    "main.js": "/react-netfilx-app/static/js/main.425d697d.js",
+    "main.js": "/react-netfilx-app/static/js/main.f65b91de.js",
     "static/js/787.20e5b628.chunk.js": "/react-netfilx-app/static/js/787.20e5b628.chunk.js",
     "index.html": "/react-netfilx-app/index.html",
     "main.a16c1ec7.css.map": "/react-netfilx-app/static/css/main.a16c1ec7.css.map",
-    "main.425d697d.js.map": "/react-netfilx-app/static/js/main.425d697d.js.map",
+    "main.f65b91de.js.map": "/react-netfilx-app/static/js/main.f65b91de.js.map",
     "787.20e5b628.chunk.js.map": "/react-netfilx-app/static/js/787.20e5b628.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a16c1ec7.css",
-    "static/js/main.425d697d.js"
+    "static/js/main.f65b91de.js"
   ]
 }
